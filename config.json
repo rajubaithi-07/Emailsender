@@ -1,0 +1,8 @@
+{
+  "email": "rajubaithi07@gmail.com",
+  "password": "piwk lihg xyah jsur",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 465,
+  "subject": "Automated Email From Python",
+  "schedule_time": "09:00"
+}

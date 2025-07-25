@@ -1,0 +1,3 @@
+friend1@example.com
+teammate2@example.com
+hr@labmentix.com
