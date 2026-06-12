@@ -1,0 +1,9 @@
+smtplib
+schedule
+pandas
+flask
+matplotlib
+email
+imaplib
+sqlite3
+openpyxl

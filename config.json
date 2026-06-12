@@ -1,8 +1,8 @@
 {
   "email": "rajubaithi07@gmail.com",
-  "password": "piwk lihg xyah jsur",
+  "password": "jeen sctu idcd rnwq",
   "smtp_server": "smtp.gmail.com",
   "smtp_port": 465,
-  "subject": "Automated Email From Python",
+  "subject": "Daily Marketing Report",
   "schedule_time": "09:00"
 }
